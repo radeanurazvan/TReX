@@ -31,7 +31,7 @@
     "@types/node": "^11.13.8",
     "axios": "^0.19.0",
     "express": "^4.16.4",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "inversify": "^5.0.1",
     "jwt-simple": "^0.5.6",
     "navigo": "^7.1.2",
